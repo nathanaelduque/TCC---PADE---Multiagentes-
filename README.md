@@ -1,5 +1,5 @@
 
-<h1 align="center"> Trabalho de Conclusão do Curso de Engenharia Elétrica </h1>
+<h1 align="center"> Trabalho de Conclusão do Curso de Eng.Elétrica </h1>
 
 
 Esse Trabalho consiste em duas etapas,sendo:
@@ -8,7 +8,6 @@ Esse Trabalho consiste em duas etapas,sendo:
 
 2º) Construção de um Sistema Multiagente onde iremos inserir os algoritmos para que eles realizem o DEO
 
-https://github.com/nathanaelduque/TCC---PADE---Multiagentes-/blob/main/README.md#t%C3%A9cnicas-de-despacho-distribu%C3%ADdo
 
 Esse texto irá resumir o trabalho passando pelos seguintes tópicos:
  * [Microrrede e DEO](https://github.com/nathanaelduque/TCC---PADE---Multiagentes-/blob/main/README.md#microrredes-e-deo);
@@ -43,6 +42,27 @@ Despacho Econômico Ótimo é o processo de otimização da produção e consumo
 
 ### Centralizado:
 
+ <div align="center">
+ 
+ ![Centralizado](https://github.com/nathanaelduque/TCC---PADE---Multiagentes-/blob/main/Figuras/Centralizado.png)
+ 
+ </div>
+ 
+ O Esquema Centralizado apresenta vantagens tais como: Simplicidade de Desenvolvimento e Facilidade de Manutenção
+ 
+ Porém apresenta desvantagens tais como: Baixa tolerância a falha, alto custo computacional no nó central e baixa escalabilidade
+ 
+ ### Distribuído:
+ 
+  <div align="center">
+ 
+ ![Distribuído](https://github.com/nathanaelduque/TCC---PADE---Multiagentes-/blob/main/Figuras/Distribuido.png)
+ 
+  </div>
+  
+ Já o esquema distrbuído apresenta como vantagem os seguintes aspectos: Alta segurança, possibilidade de Plug and Play ilimitada e Custo computacional dividido.
+ 
+ Como desvantagens desse sistema, temos: Maior complexidade na manutenção e Alto custo de implementação.
 
 
 ## Rede Utilizada
