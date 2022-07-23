@@ -16,10 +16,10 @@ Esse texto irá resumir o trabalho passando pelos seguintes tópicos:
  * [DEO Centralizado vs Distribuído](https://github.com/nathanaelduque/TCC---PADE---Multiagentes-/blob/main/README.md#deo-centralizado-vs-distribu%C3%ADdo);
  * [Rede Utilizada](https://github.com/nathanaelduque/TCC---PADE---Multiagentes-/blob/main/README.md#rede-utilizada);
  * [Modelagem dos Agentes](https://github.com/nathanaelduque/TCC---PADE---Multiagentes-/blob/main/README.md#modelagem-dos-agentes);
- * [Técnicas de Otimização Distribuída](https://github.com/nathanaelduque/TCC---PADE---Multiagentes-/blob/main/README.md#t%C3%A9cnicas-de-despacho-distribu%C3%ADdo);
+ * [Técnicas de Otimização Distribuída](https://github.com/nathanaelduque/TCC---PADE---Multiagentes-/blob/main/README.md#t%C3%A9cnicas-de-otimiza%C3%A7%C3%A3o-distribu%C3%ADda);
  * [PADE](https://github.com/nathanaelduque/TCC---PADE---Multiagentes-/blob/main/README.md#pade);
  * [Casos de Estudo ](https://github.com/nathanaelduque/TCC---PADE---Multiagentes-/blob/main/README.md#casos-de-estudo).
- * [Conclusão ]([https://github.com/nathanaelduque/DesafioDataH-#como-executar](https://github.com/nathanaelduque/TCC---PADE---Multiagentes-/blob/main/README.md#conclus%C3%A3o)).
+ * [Conclusão ](https://github.com/nathanaelduque/DesafioDataH-#como-executar](https://github.com/nathanaelduque/TCC---PADE---Multiagentes-/blob/main/README.md#conclus%C3%A3o)
  
  *Além disso, em caso de dúvida,não hesite em entrar em contato*
  
