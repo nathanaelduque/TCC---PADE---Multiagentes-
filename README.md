@@ -15,7 +15,8 @@ Esse texto irá resumir o trabalho passando pelos seguintes tópicos:
  * [DEO Centralizado vs Distribuído](https://github.com/nathanaelduque/DesafioDataH-#pr%C3%A9-requisitos);
  * [Rede Utilizada](https://github.com/nathanaelduque/DesafioDataH-#pr%C3%A9-requisitos);
  * [Modelagem dos Agentes](https://github.com/nathanaelduque/DesafioDataH-#pr%C3%A9-requisitos);
- * [Técnicas de Despacho Distribuído](https://github.com/nathanaelduque/DesafioDataH-#dicas);
+ * [Técnicas de Otimização Distribuídas](https://github.com/nathanaelduque/DesafioDataH-#dicas);
+ * [PADE](https://github.com/nathanaelduque/DesafioDataH-#dicas);
  * [Casos de Estudo ](https://github.com/nathanaelduque/DesafioDataH-#como-executar).
  * [Conclusão ](https://github.com/nathanaelduque/DesafioDataH-#como-executar).
  
