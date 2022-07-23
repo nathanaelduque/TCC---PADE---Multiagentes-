@@ -1,5 +1,5 @@
 
-<h1 align="center"> Trabalho Final do Curso de Engenharia Elétrica </h1>
+<h1 align="center"> Trabalho de Conclusão do Curso de Engenharia Elétrica </h1>
 
 
 Esse Trabalho consiste em duas etapas,sendo:
