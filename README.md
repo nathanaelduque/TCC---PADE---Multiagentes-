@@ -15,7 +15,7 @@ Esse texto irá resumir o trabalho passando pelos seguintes tópicos:
  * [DEO Centralizado vs Distribuído](https://github.com/nathanaelduque/DesafioDataH-#pr%C3%A9-requisitos);
  * [Rede Utilizada](https://github.com/nathanaelduque/DesafioDataH-#pr%C3%A9-requisitos);
  * [Modelagem dos Agentes](https://github.com/nathanaelduque/DesafioDataH-#pr%C3%A9-requisitos);
- * [Técnicas de Otimização Distribuídas](https://github.com/nathanaelduque/DesafioDataH-#dicas);
+ * [Técnicas de Otimização Distribuída](https://github.com/nathanaelduque/DesafioDataH-#dicas);
  * [PADE](https://github.com/nathanaelduque/DesafioDataH-#dicas);
  * [Casos de Estudo ](https://github.com/nathanaelduque/DesafioDataH-#como-executar).
  * [Conclusão ](https://github.com/nathanaelduque/DesafioDataH-#como-executar).
@@ -48,7 +48,9 @@ Despacho Econômico Ótimo é o processo de otimização da produção e consumo
 
 ## Modelagem dos Agentes 
 
-## Técnicas de Despacho Distribuído
+## Técnicas de Otimização Distribuída
+
+## PADE
 
 ## Casos de Estudo
 
