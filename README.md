@@ -19,7 +19,14 @@ Esse texto irá resumir o trabalho passando pelos seguintes tópicos:
  
  ## Microrredes e DEO
  
+ <div align="center">
+ 
+ ![Microrrede](https://github.com/nathanaelduque/TCC---PADE---Multiagentes-/blob/main/Figuras/Microrredes.png)
+ 
+ </div>
  
 Microrredes são subsistemas elétricos controláveis com recursos energéticos distribuídos que incluem fontes, armazenamento de energia e cargas, apta a operar conectada ou isolada da rede elétrica principal.
 
 Despacho Econômico Ótimo é o processo de otimização da produção e consumo de energia elétrica, observadas as restrições operativas.
+
+
