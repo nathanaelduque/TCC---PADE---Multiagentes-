@@ -1,5 +1,4 @@
 
-
 <h1 align="center"> Trabalho Final do Curso de Engenharia Elétrica </h1>
 
 
@@ -19,3 +18,8 @@ Esse texto irá resumir o trabalho passando pelos seguintes tópicos:
  *Além disso, em caso de dúvida,não hesite em entrar em contato*
  
  ## Microrredes e DEO
+ 
+ 
+Microrredes são subsistemas elétricos controláveis com recursos energéticos distribuídos que incluem fontes, armazenamento de energia e cargas, apta a operar conectada ou isolada da rede elétrica principal.
+
+Despacho Econômico Ótimo é o processo de otimização da produção e consumo de energia elétrica, observadas as restrições operativas.
